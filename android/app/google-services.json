@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912572087698",
+    "project_id": "swimmer-suit",
+    "storage_bucket": "swimmer-suit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912572087698:android:7b662367d73da5f278554b",
+        "android_client_info": {
+          "package_name": "com.example.swimmer_suit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912572087698-9b2sojan13o03puv833son1b5i63su4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8YBT0MqGtFa_kJmGWZQtJd59B6DtezA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912572087698-9b2sojan13o03puv833son1b5i63su4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
